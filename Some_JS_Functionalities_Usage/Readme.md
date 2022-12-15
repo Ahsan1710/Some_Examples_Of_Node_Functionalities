@@ -10,7 +10,7 @@ These are different examples of some JavaScript functionalities including built-
 Can be used and run after installing node. Run through cmd of current folder by following command:
 
 `node example-file-name`
-like:
+e.g.,
 `node Events.js` OR `node Events`
 
 ## 1. Events
